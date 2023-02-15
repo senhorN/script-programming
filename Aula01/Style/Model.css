@@ -1,0 +1,14 @@
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+    
+    padding: 15px;
+    text-align: left;
+    
+    width: 100%;
+}
+thead {
+    border: 1px solid; /* deixa a borda*/
+
+    background-color: green; /* muda a cor do elemento*/ 
+}
